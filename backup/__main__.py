@@ -1,0 +1,3 @@
+import decathlon
+
+decathlon.init()

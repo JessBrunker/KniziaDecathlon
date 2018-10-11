@@ -1,0 +1,11 @@
+100 Metres,Chris,32,9/17/2016
+Long Jump,Jess,28,9/17/2016
+Shot Put,Jess,34,9/17/2016
+High Jump,Jess,20,6/13/2016
+400 Metres,Tyler,31,9/17/2016
+110 Metre Hurdles,Jess,26,9/17/2016
+Discus,Tyler,28,9/17/2016
+Pole-Vault,Jess,36,9/17/2016
+Javelin,Chris,25,6/13/2016
+1500 Metres,Chris,33,6/13/2016
+Total,Jess,273,9/17/2016
